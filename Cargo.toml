@@ -14,3 +14,6 @@ num_enum = "0.5.1"
 rand = "0.8.3"
 ron = "0.6.4"
 serde = {version = "1.0.125", features = ["derive", "rc"]}
+egui = "0.29.1"
+eframe = "0.29.1"
+egui-snarl = "0.5.0"
